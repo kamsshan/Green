@@ -21,6 +21,9 @@ public class GreensTech {
 		System.out.println("greensannanagar");
 
 	}
+	private void greensTechnology() {
+		System.out.println("Greens Technology");
+	}
 public static void main(String[] args) {
 	GreensTech g=new GreensTech();
 		g.greensOmr();
