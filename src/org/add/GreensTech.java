@@ -21,8 +21,12 @@ public class GreensTech {
 		System.out.println("greensannanagar");
 
 	}
-	private void greensTechnology() {
+
+	public void greensTechnology() {
 		System.out.println("Greens Technology");
+	public void greensNew() {
+		System.out.println("Greens New");
+
 	}
 public static void main(String[] args) {
 	GreensTech g=new GreensTech();
